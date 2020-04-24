@@ -14,7 +14,7 @@ It should look something like this:<br><br>
 <img src="readme_imgs/diff_folder.png" alt="drawing" width="250"/>
 </center>
 
-On runnning the project, you will get something like this: <br>
+On runnning the project, you will get this window: <br>
 <center>
 <img src="readme_imgs/blank_solver.png" alt="draw" width="400"/>
 </center>
@@ -25,6 +25,6 @@ The plot of y versus t will be displayed.
 Here is an example: For the equation y''=y'-3y, with t from 0 to 10, and initial conditions y(0)=0, y'(0)=1: <br><br>
 <img src="readme_imgs/second_order.png" alt="drawg" width="400"/>
 <br>
-In case the layout of the window is not appealing enough to you, you can change the positioning of the text boxes, plot and button either in the code in 
+In case the layout of the window doesn;t suit your fancy, you can change the positioning of the text boxes, plot and button either in the code in 
 <a href="diff_solver.ui">diff_solver.ui</a>,
 or directly, in a much easier way, through the GUI preview that can be seen on clicking diff_solver.ui in the left pane in Qt.  
