@@ -1,7 +1,7 @@
 # GUI Differential Equation Solver on Qt
 
 This is a GUI based Differential Solver made on [Qt](https://www.qt.io/ "Qt website") (pronounced "cute"). 
-I learnt to use Qt [here](https://www.youtube.com/watch?v=txGRU7OrTZo "Qt tutorial to make calculator").<br>
+I learned to use Qt [here](https://www.youtube.com/watch?v=txGRU7OrTZo "Qt tutorial to make calculator").<br>
 
 It solves second order differential equations of the form y''=f(y',y,t), given a start and end time, and initial conditions on y and y'. 
 The algorithm used to solve the differential equation is the [Euler method](https://en.wikipedia.org/wiki/Euler_method), which is only a first-order method. 
